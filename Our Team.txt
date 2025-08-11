@@ -1,0 +1,9 @@
+Ahmed Zakaria Hamed ------ > Model Building
+
+Basma Nabil Deniour ------ > Power Bi (Data Cleaning , OverView Page , Design , Mental Health Distrubution Page)
+
+Yasser Shawky Kashef Ghonem ------ > Power Bi (Data Modeling , OverView Page , Design , Suicide Behavior Analysis Page)
+
+Mohamed Yahya ---- > Data Preprocessing 
+
+Mahmoud Reda Bassuony Hany ------ > Model Building
